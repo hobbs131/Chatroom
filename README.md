@@ -27,7 +27,7 @@ Client:
   
 # Demo
 
-https://www-users.cs.umn.edu/~kauffman/4061/blather-demo.png
+
 
 
 
