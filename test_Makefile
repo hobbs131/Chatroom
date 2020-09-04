@@ -1,6 +1,6 @@
 ############################################################
 ## TEST TARGETS
-TEST_PROGRAMS = test_blather.sh test_blather_data.sh test_normalize.awk test_cat_sig.sh test_filter_semopen_bug.awk 
+TEST_PROGRAMS = test_blather_data.sh test_normalize.awk test_cat_sig.sh test_filter_semopen_bug.awk 
 
 test : bl_client bl_server
 	chmod u+rx test_*
